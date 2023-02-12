@@ -1,0 +1,1 @@
+This show the output when the command `uname` is typed without a command on a ubuntu machine
